@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortowanieBabelkowe", "ConsoleApp6\SortowanieBabelkowe.csproj", "{6ABA4BEC-8DD0-420C-88A0-646B2F2BF04F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ABA4BEC-8DD0-420C-88A0-646B2F2BF04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABA4BEC-8DD0-420C-88A0-646B2F2BF04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABA4BEC-8DD0-420C-88A0-646B2F2BF04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABA4BEC-8DD0-420C-88A0-646B2F2BF04F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDDDB165-8584-4A62-88DB-1E2BE55ACDDA}
+	EndGlobalSection
+EndGlobal
